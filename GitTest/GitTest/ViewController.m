@@ -18,6 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"第一次修改");
+    NSLog(@"开始单人测试模式测试");
 }
 
 - (void)didReceiveMemoryWarning {
